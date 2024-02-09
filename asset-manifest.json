@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/reyvachawla/cs378-p2/static/css/main.4d232a77.css",
-    "main.js": "/reyvachawla/cs378-p2/static/js/main.a36a4154.js",
-    "static/js/787.adad572c.chunk.js": "/reyvachawla/cs378-p2/static/js/787.adad572c.chunk.js",
-    "index.html": "/reyvachawla/cs378-p2/index.html",
-    "main.4d232a77.css.map": "/reyvachawla/cs378-p2/static/css/main.4d232a77.css.map",
-    "main.a36a4154.js.map": "/reyvachawla/cs378-p2/static/js/main.a36a4154.js.map",
-    "787.adad572c.chunk.js.map": "/reyvachawla/cs378-p2/static/js/787.adad572c.chunk.js.map"
+    "main.css": "/cs378-p2/static/css/main.4d232a77.css",
+    "main.js": "/cs378-p2/static/js/main.ead50d67.js",
+    "static/js/787.adad572c.chunk.js": "/cs378-p2/static/js/787.adad572c.chunk.js",
+    "index.html": "/cs378-p2/index.html",
+    "main.4d232a77.css.map": "/cs378-p2/static/css/main.4d232a77.css.map",
+    "main.ead50d67.js.map": "/cs378-p2/static/js/main.ead50d67.js.map",
+    "787.adad572c.chunk.js.map": "/cs378-p2/static/js/787.adad572c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.4d232a77.css",
-    "static/js/main.a36a4154.js"
+    "static/js/main.ead50d67.js"
   ]
 }
