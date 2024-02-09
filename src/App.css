@@ -3,6 +3,36 @@
   Below, you can see an example of a class called "menu" that changes the color of the text to blue. Modify according to your needs.
 */
 
+body h2 {
+  background-color: pink;
+  font-family:'Trattatello',fantasy;
+  font-variant: small-caps;
+  color:white;
+}
+
 .menu {
-  color: blue;
+  font-family:'Futura', Arial, Helvetica, sans-serif;
+  color:#512615;
+}
+
+button.btn {
+  border-radius: 50%;
+  background-color: pink;
+  color:white;
+  box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.2);
+}
+
+body h3 {
+  font-size:large;
+  color:#512615;
+}
+
+body h4 {
+  font-weight: 600;
+  font-size:large;
+}
+
+body p {
+  font-weight: 100;
+  font-size:medium;
 }
