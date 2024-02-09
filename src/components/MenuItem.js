@@ -15,7 +15,7 @@ const MenuItem = ({ title, description, imageName, price}) => {
             <p>{description}</p>
             <div className="row">
             <div className="col">
-                <p>{price}</p>
+                <p>${price}</p>
             </div>
             <div className="col">
                 <button className="btn">Add</button>
